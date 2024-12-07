@@ -1,5 +1,4 @@
-Data Analysis and Visualization Projects
-Overview
+
 This repository contains various data analysis projects utilizing datasets from Kaggle, including IMDb, Amazon, Google Play Store, etc datasets. The projects focus on identifying trends, generating insights, and answering business-related questions.
 
 Features
