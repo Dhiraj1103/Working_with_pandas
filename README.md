@@ -17,4 +17,4 @@ Jupyter Notebook
 Pandas
 Matplotlib
 Seaborn
-numpy
+
